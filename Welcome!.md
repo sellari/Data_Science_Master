@@ -1,4 +1,4 @@
-### Data Science Master's Degree Exercises Repository
+# Data Science Master's Degree Exercises Repository
 Welcome to my Data Science Master's Degree Exercises Repository! 📚
 
 ## Overview
