@@ -11,7 +11,7 @@ Welcome to my Data Science Master's Degree Exercises Repository! 📚
 - Machine Learning
 - Statistics
 - Data Visualization
-and more...
+- and more...
 Feel free to explore the folders and delve into the code to gain insights into my learning journey and the practical applications of data science concepts.
 
 ## Contact
